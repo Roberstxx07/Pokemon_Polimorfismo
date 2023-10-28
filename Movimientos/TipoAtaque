@@ -1,0 +1,6 @@
+package Pokemon_Abstraccionnn;
+
+
+public enum TipoAtaque {
+    FISICO, ESPECIAL, ESTADO
+}
